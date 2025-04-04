@@ -36,8 +36,7 @@
                             </HorizontalStackLayout>
                             <BoxView HeightRequest="2" WidthRequest="100" Background="White"/>
                             <HorizontalStackLayout Spacing="10">
-                                <Label Text="Visitors" TextColor="White"/>
-                                <Label Text=":" TextColor="White"/>
+                                <Label Text="Visitors :" TextColor="White"/>
                                 <Label Text="{Binding Item.Visitors}" TextColor="White"/>
                             </HorizontalStackLayout>
                         </VerticalStackLayout>
@@ -50,8 +49,7 @@
                             </HorizontalStackLayout>
                             <BoxView HeightRequest="2" WidthRequest="120" Background="White"/>
                             <HorizontalStackLayout Spacing="10">
-                                <Label Text="Active Users" TextColor="White"/>
-                                <Label Text=":" TextColor="White"/>
+                                <Label Text="Active Users :" TextColor="White"/>
                                 <Label Text="{Binding Item.DailyActiveUsers}" TextColor="White"/>
                             </HorizontalStackLayout>
                         </VerticalStackLayout>
