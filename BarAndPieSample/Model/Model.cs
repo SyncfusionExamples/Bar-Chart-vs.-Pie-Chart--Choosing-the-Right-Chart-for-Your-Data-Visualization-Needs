@@ -15,9 +15,5 @@ namespace BarAndPieSample
         public string AgeGroup { get; set; }
         public double Percentage { get; set; }     
 
-        public ChartModel()
-        {
-            
-        }
     }
 }
