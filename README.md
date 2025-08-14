@@ -17,7 +17,7 @@ Choosing the right chart type is crucial for effective data visualization. [Bar 
 
 ![BarAndPieOutput](https://github.com/user-attachments/assets/22233914-5c94-470e-bc43-45993dcf3818)
 
-For step by step process, please refer this [ Bar Chart vs. Pie Chart blog]().
+For step by step process, please refer this [ Bar Chart vs. Pie Chart blog](https://www.syncfusion.com/blogs/post/bar-chart-vs-pie-chart).
 
 # Troubleshooting
 If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
